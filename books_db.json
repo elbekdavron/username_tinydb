@@ -1,0 +1,144 @@
+{
+    "_default": {
+        "1": {
+            "name": "The Psychology of Money",
+            "author": "Morgan Housel",
+            "year": 2020,
+            "genre": "Self-help",
+            "publisher": "Harriman House"
+        },
+        "2": {
+            "name": "Outliers",
+            "author": "Malcolm Gladwell",
+            "year": 2011,
+            "genre": "Self-help",
+            "publisher": "Back Bay Books"
+        },
+        "3": {
+            "name": "1984",
+            "author": "George Orwell",
+            "year": 1949,
+            "genre": "Dystopian",
+            "publisher": "Secker & Warburg"
+        },
+        "4": {
+            "name": "Animal Farm",
+            "author": "George Orwell",
+            "year": 1945,
+            "genre": "Dystopian",
+            "publisher": "Secker and Warburg"
+        },
+        "5": {
+            "name": "Days Gone by",
+            "author": "Abdulla Qodiriy",
+            "year": 1922,
+            "genre": "Historical Fiction",
+            "publisher": "LP"
+        },
+        "6": {
+            "name": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "year": 1937,
+            "genre": "Fantasy",
+            "publisher": "George Allen & Unwin"
+        },
+        "7": {
+            "name": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "year": 1953,
+            "genre": "Dystopian",
+            "publisher": "Ballantine Books"
+        },
+        "8": {
+            "name": "The Anomaly",
+            "author": "Herv\u00e9 Le Tellier",
+            "year": 2020,
+            "genre": "Science fiction",
+            "publisher": "\u00c9ditions Gallimard"
+        },
+        "9": {
+            "name": "War and Peace",
+            "author": "Leo Tolstoy",
+            "year": 1869,
+            "genre": "Historical Fiction",
+            "publisher": "The Russian Messenger"
+        },
+        "10": {
+            "name": "Educated",
+            "author": "Tara Westover",
+            "year": 2018,
+            "genre": "Biography",
+            "publisher": "Random House"
+        },
+        "11": {
+            "name": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "year": 1866,
+            "genre": "Psychological Fiction",
+            "publisher": "The Russian Messenger"
+        },
+        "12": {
+            "name": "Message to a citizen",
+            "author": "Yulo Vooglaid",
+            "year": 1975,
+            "genre": "Dystopian",
+            "publisher": "Samizdat"
+        },
+        "13": {
+            "name": "Steve Jobs",
+            "author": "Walter Isaacson",
+            "year": 2011,
+            "genre": "Biography",
+            "publisher": "Simon & Schuster"
+        },
+        "14": {
+            "name": "Bank 4.0",
+            "author": "Brett King",
+            "year": 2018,
+            "genre": "Finance",
+            "publisher": "Marshall Cavendish International"
+        },
+        "15": {
+            "name": "Why Nations Fail",
+            "author": "Daron Acemoglu and James A. Robinson",
+            "year": 2012,
+            "genre": "Economics",
+            "publisher": "Random House"
+        },
+        "16": {
+            "name": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "year": 1954,
+            "genre": "Fantasy",
+            "publisher": "George Allen & Unwin"
+        },
+        "17": {
+            "name": "The Alchemist",
+            "author": "Paulo Coelho",
+            "year": 1988,
+            "genre": "Fantasy",
+            "publisher": "HarperTorch"
+        },
+        "18": {
+            "name": "The Little Prince",
+            "author": "Antoine de Saint-Exup\u00e9ry",
+            "year": 1943,
+            "genre": "Fantasy",
+            "publisher": "Reynal & Hitchcock"
+        },
+        "19": {
+            "name": "Deep Work",
+            "author": "Cal Newport",
+            "year": 2016,
+            "genre": "Self-help",
+            "publisher": "Grand Central Publishing"
+        },
+        "20": {
+            "name": "Zero to One",
+            "author": "Peter Thiel",
+            "year": 2014,
+            "genre": "Business",
+            "publisher": "Crown Business"
+        }
+    }
+}
